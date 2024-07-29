@@ -1,0 +1,70 @@
+{
+  "1307": [
+    {
+      "date": "2024-07-01",
+      "amount": 477,
+      "description": "Avgift f\u00f6r andrahandsuppl\u00e5telse i augusti 2024",
+      "added": true
+    },
+    {
+      "date": "2024-08-01",
+      "amount": 477,
+      "description": "Avgift f\u00f6r andrahandsuppl\u00e5telse i september 2024"
+    },
+    {
+      "date": "2024-09-01",
+      "amount": 477,
+      "description": "Avgift f\u00f6r andrahandsuppl\u00e5telse i oktober 2024"
+    },
+    {
+      "date": "2024-10-01",
+      "amount": 477,
+      "description": "Avgift f\u00f6r andrahandsuppl\u00e5telse i november 2024"
+    },
+    {
+      "date": "2024-11-01",
+      "amount": 477,
+      "description": "Avgift f\u00f6r andrahandsuppl\u00e5telse i december 2024"
+    },
+    {
+      "date": "2024-12-01",
+      "amount": 490,
+      "description": "Avgift f\u00f6r andrahandsuppl\u00e5telse i januari 2025"
+    },
+    {
+      "date": "2025-01-01",
+      "amount": 490,
+      "description": "Avgift f\u00f6r andrahandsuppl\u00e5telse i februari 2025"
+    },
+    {
+      "date": "2025-02-01",
+      "amount": 490,
+      "description": "Avgift f\u00f6r andrahandsuppl\u00e5telse i mars 2025"
+    },
+    {
+      "date": "2025-03-01",
+      "amount": 490,
+      "description": "Avgift f\u00f6r andrahandsuppl\u00e5telse i april 2025"
+    },
+    {
+      "date": "2025-04-01",
+      "amount": 490,
+      "description": "Avgift f\u00f6r andrahandsuppl\u00e5telse i maj 2025"
+    },
+    {
+      "date": "2025-05-01",
+      "amount": 490,
+      "description": "Avgift f\u00f6r andrahandsuppl\u00e5telse i juni 2025"
+    },
+    {
+      "date": "2025-06-01",
+      "amount": 490,
+      "description": "Avgift f\u00f6r andrahandsuppl\u00e5telse i juli 2025"
+    },
+    {
+      "date": "2025-07-01",
+      "amount": 490,
+      "description": "Avgift f\u00f6r andrahandsuppl\u00e5telse i augusti 2025"
+    }
+  ]
+}
